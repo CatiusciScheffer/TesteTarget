@@ -12,8 +12,10 @@ Desenvolvido em Python 3.
 
 ## Como executar
 
+### Testes
+
 ```bash
 python nome_do_arquivo.py
 ```
 
-* Havia criado alguns dados com os arquivos disponibilizados para visualização em html e js.
+### Análises extras
