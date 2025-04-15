@@ -19,3 +19,7 @@ python nome_do_arquivo.py
 ```
 
 ### Análises extras
+
+`</> bash`
+
+`git clone https://github.com/seu-usuario/target-sistemas-solucoes.git cd target-sistemas-solucoes python3 -m http.server 8000`
